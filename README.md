@@ -8,4 +8,5 @@ Configuration file with custom colours.
     100-109 = White.
     0-99 = Grey.
     
-    Adds a '+' to the end anything under 115 if you hit with perfect accuracy.
+    Adds a '+' to the end anything under 115
+    if you hit with perfect accuracy.
